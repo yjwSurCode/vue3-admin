@@ -1,0 +1,25 @@
+export const deviceFlowList =  [
+  {
+  value:0,
+  label:'已入库'
+},{
+  value:1,
+  label:'待发货'
+},
+{
+  value:2,
+  label:'已发货'
+},{
+  value:3,
+  label:'已签收'
+},{
+  value:4,
+  label:'已激活'
+},{
+  value:5,
+  label:'退货'
+},
+{
+  value:6,
+  label:'已禁用'
+}]
